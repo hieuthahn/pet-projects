@@ -50,3 +50,5 @@ client/.env*.local
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+assets
